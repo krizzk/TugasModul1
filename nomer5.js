@@ -65,8 +65,6 @@ class Lingkaran {
     }
   }
   
-  // Contoh penggunaan
-  
   const tabung = new Gelas(15, 50);
   console.log('Volume Tabung:', tabung.volume().toFixed(2));
   console.log('Luas Permukaan Tabung:', tabung.luasPermukaan().toFixed(2));
